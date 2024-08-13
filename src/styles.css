@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.data_object a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: black;
+}
+
+.data_object img {
+  height: 30px;
+}
+
+.data_object > div {
+  padding-top: 5px;
+}
